@@ -10,7 +10,26 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 I am available for work. Send me an email if you have any offers for me at oluwatosinjosephdurodola@gmail.com.
 
 ## How to Setup the project
-
+1. Install Python on your system.
+2. Install ffmpeg
+3. Create a virtual environment with the following code on your command line:
+Linux:
+`python3 -m venv env`
+Windows on cmd:
+`py -m venv env`
+or on powershell
+`python -m venv env`
+4. Activate the virtual environment
+Linux:
+`source env/bin/activate`
+Windows:
+`env\Scripts\activate`
+5. Install the Requirements
+`pip install -r requirements.txt`
+6. Change directory to the folder directory:
+`cd video_converter`
+7. Run the app from command line
+`python app.py`
 
 ## How to Install the software
 
