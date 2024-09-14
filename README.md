@@ -2,8 +2,9 @@
 
 This is a tiny video converter that can convert video to a few audio and video format.
 
+## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License — see the [LICENSE](./LICENSE) file for details.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tosin789)  
 
